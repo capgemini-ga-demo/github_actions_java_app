@@ -1,4 +1,4 @@
-name: shared_action_test
+name: java_ci_cd_test
 
 on:
   push:
